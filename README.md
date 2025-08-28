@@ -1,6 +1,6 @@
 # Hey, I'm @mjdelima 👋
 
-> Full‑stack web developer • Laravel + MySQL backends • React/Vue 3 frontends
+> Full‑stack web developer • Laravel + MySQL backend • React/Vue 3 frontends
 
 I build reliable, well-documented web applications end to end—crafting clean APIs, fast UIs, and maintainable codebases.
 
