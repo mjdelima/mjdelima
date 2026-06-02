@@ -4,11 +4,11 @@
 
 I build reliable, well-documented web applications end to end—crafting clean APIs, fast UIs, and maintainable codebases.
 
-- 🔭 Currently focused on: Laravel 12 and React
+- 🔭 Currently focused on: Laravel 13 and React
 - 🧰 Core stack: MySQL • Laravel • React • Vue 3 • Java
 - 💬 Ask me about: _API design, query optimization_
 - 🌱 Learning: _Cybersecurity, Red Teaming, CI/CD_
-- 🎯 2025 goals: _Become a Certified Red Team Analyst_
+- 🎯 2026 goals: _Become a Certified Red Team Analyst_
 
 ---
 
