@@ -34,7 +34,7 @@ I build reliable, well-documented web applications end to end—crafting clean A
 
 - Email: mcjoshuadelima@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/mcjoshuadelima  
-- Portfolio: https://mjdelima.vercel.app/#top
+- Portfolio: https://mjdelima.vercel.app
 ---
 
 ## 📊 GitHub Stats
